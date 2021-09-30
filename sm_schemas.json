@@ -1,0 +1,38 @@
+{
+  "rigidBody": {
+    "minX": {
+      "start": 21,
+      "end": 25
+    },
+    "maxX": {
+      "start": 17,
+      "end": 21
+    },
+    "minY": {
+      "start": 13,
+      "end": 17
+    },
+    "maxY": {
+      "start": 9,
+      "end": 13
+    },
+    "absZ": {
+      "start": 51,
+      "end": 55
+    }
+  },
+  "childShape": {
+    "bodyId": {
+      "start": 7,
+      "length": 4
+    },
+    "partUUID": {
+      "start": 11,
+      "end": 27
+    },
+    "colour": {
+      "start": 38,
+      "end": 42
+    }
+  }
+}
