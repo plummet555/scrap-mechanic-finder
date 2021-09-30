@@ -35,7 +35,7 @@ Here is an example of the output you can expect:
     {"minX":-737,"maxX":-735,"minY":622,"maxY":625,"absZ":198}
     Finished
 
-The min and max values are the co-ordinates of the creation, and absZ is it's altitude.
+The min and max values are the co-ordinates of the creation, and absZ is its altitude.
 
 # Using the co-ordinates
 
