@@ -17,6 +17,7 @@ All Scrap Mechanic survival parts are defined in the game file:
 C:\\Program Files (x86)\\Steam\\steamapps\\common\\Scrap Mechanic\\Survival\\Scripts\\game\\survival_items.lua
 
 In that file, each part has a unique identified (UUID), e.g. a Level 5 Thruster is:
+
 `obj_interactive_thruster_05 = sm.uuid.new( "a736ffdf-22c1-40f2-8e40-988cab7c0559" )`
 
 You can run the tool specifying the part UUID, e.g.:
